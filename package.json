@@ -66,7 +66,7 @@
     "express": "^4.16.4",
     "html-to-text": "^4.0.0",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "migrate": "^1.6.2",
     "mime-types": "^2.1.22",
     "minimist": "^1.2.5",
